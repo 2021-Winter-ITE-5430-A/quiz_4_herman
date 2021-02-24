@@ -1,0 +1,19 @@
+[  {
+    "id": 1,
+    "name": "barts",
+    "type": "type a",
+    "color": "green"
+  },
+  {
+    "id": 2,
+    "name": "trex",
+    "type": "type c",
+    "color": "purple"
+  },
+  {
+    "id": 3,
+    "name": "tronos",
+    "type": "type b",
+    "color": "red"
+  }
+]
